@@ -43,7 +43,7 @@ Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new
 **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
 <br />
 <br />
-<img height="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProtonxFR&layout=compact&theme=dark&bg_color=0A0A0A&locale=fr" alt="Top Languages Proton"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProtonxFR&layout=compact&theme=dark&bg_color=0A0A0A&locale=fr" alt="Top Languages Proton"/>
 <br />
 <br />
 <br />
