@@ -2,7 +2,7 @@
 <img width="100%" alt="Developer Illustration" src="https://66.media.tumblr.com/61a9eb23d1ea3ff166778ecc099b1875/tumblr_pow174SQN91sfbqxao1_540.gif"/>
 <br />
 <br />
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hey, Bienvenue sur mon profil GitHub <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -17,7 +17,7 @@
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<img src="https://media.discordapp.net/attachments/971836875184680970/999281603610165248/Sans_titre-2.jpg" alt="Achhoubi Alpha Codewars Badge">
 <br />
 <br />
 
