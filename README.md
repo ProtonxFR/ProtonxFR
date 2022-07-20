@@ -21,7 +21,7 @@
 <br />
 <br />
 
-__Je m'en souviens. C'était un serpent qui s'appelait "Python" 🐍.__
+`Je m'en souviens. C'était un serpent qui s'appelait "Python" 🐍.`
 <br />
 <br />
 
