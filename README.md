@@ -17,7 +17,7 @@
 </a>
 <br />
 <br />
-<img width="200" src="https://media.discordapp.net/attachments/971836875184680970/999281603610165248/Sans_titre-2.jpg" alt="Achhoubi Alpha Codewars Badge">
+<img width="270" src="https://media.discordapp.net/attachments/971836875184680970/999281603610165248/Sans_titre-2.jpg" alt="Achhoubi Alpha Codewars Badge">
 <br />
 <br />
 
